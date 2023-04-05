@@ -6,8 +6,8 @@ function App() {
     <div className="App">
       <div className='container'>
         <main>
-          <h1>Dictionary </h1>
-          <Dictionary defaultKeyword="sunset"/>
+          <h1>Everyday Dictionary </h1>
+          <Dictionary defaultKeyword="rainbow"/>
         </main>
       </div>
       <footer>
